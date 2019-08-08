@@ -1,0 +1,1601 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Peter Designs</title>
+    <!-- Orginally Based off the "Freelancer - Start Bootstrap Theme" --!>
+
+    <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	
+    <!-- Custom CSS -->
+    <link href="css/freelancer.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]->
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        
+        
+        
+    <!--[endif]-->
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#page-top">Peter Chadwick</a></div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li class="page-scroll"> <a href="#portfolio">Portfolio</a> </li>
+                    <li class="page-scroll">
+                        <a href="#about">About</a>
+                    </li>
+                    <li class="page-scroll"> <a href="#resume">Resume</a> </li>
+                    <li class="page-scroll">
+                        <a href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+ 
+    </header>
+
+    <!-- Portfolio Grid Section -->
+    <div id="nav2port"></div>
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Portfolio</h2>
+                    <hr class="star-primary2">
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+            
+            <div class="row">
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <img src="img/MRGHover-01.png" alt="" height="100%" width="100%">
+                            </div>
+                        </div>
+                        <img src="img/MRGph.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+              
+               
+               
+                <div class="col-sm-4 portfolio-item col-md-offset-1">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <img src="img/MastersHover-02.png" alt="" height="100%" width="100%">
+                            </div>
+                        </div>
+                        <img src="img/Mastersph.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+             
+               
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <img src="img/BKHover-03.png" alt="" height="100%" width="100%">
+                            </div>
+                        </div>
+                        <img src="img/BKph.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+             </div>   
+                
+              <div class="row"> 
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <img src="img/CPhover-04.png" alt="" height="100%" width="100%">
+                            </div>
+                        </div>
+                        <img src="img/CPph.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                
+                
+                
+               
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <img src="img/BChover-05.png" alt="" height="100%" width="100%">
+                            </div>
+                        </div>
+                        <img src="img/BCph.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+             
+              
+               
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <img src="img/PMGhover-06.png" alt="" height="100%" width="100%">
+                            </div>
+                        </div>
+                        <img src="img/PMGph.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+              </div>
+
+
+<div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Practical</h2>
+                    <hr class="star-primary4">
+                    <hr>
+                </div>
+            </div>
+
+
+<div class="row"> 
+        <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
+                       <div class="caption">
+                            <div class="caption-content">
+                                <img src="img/PhotoHover-07.png" alt="" height="100%" width="100%">
+                            </div>
+                        </div>
+                        <img src="img/PhotoBG.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                
+                
+                
+               
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <img src="img/ArtHover-08.png" alt="" height="100%" width="100%">
+                            </div>
+                        </div>
+                        <img src="img/ArtBG.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+             
+              
+               
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">
+                        
+                        <div class="caption">
+                            <div class="caption-content">
+                                <img src="img/WebHover-09.png" alt="" height="100%" width="100%">
+                            </div>
+                        </div>
+                        
+                        <img src="img/WebBG.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+              </div> 
+            </div>
+            
+            
+            
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>About</h2>
+                    <hr class="star-light">
+                 <div class="ibars"></div>
+</div>
+            </div>
+            <div class="row">
+            
+           
+               
+              
+                  <img src="img/AboutPhoto.png" class="col-md-4 col-sm-12 col-xs-12" alt="">
+            
+                
+                 <div class="col-lg-8">
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                   <p>Growing up in Northern New Jersey but spending my summers outside in Vermont it is not surprising that I ended up in Burlington for college. A place that allowed me to grow as a person and a designer. Getting to attend school at Champlain College was one of the most influential times of my life, and the people plus surrounding area all played a part of who I am today. 
+                   <br>
+                   <br>
+                   In my free time I like making puns, drinking chocolate milk, and learning new things. For example, last year my friends showed me how to ice skate, play hockey, and get stitches. Lately I have been teaching myself origami and calligraphy which allow me to use my hands while also teaching me patience and precision. Overall I believe that working hard is important but that doesn't mean it can't be fun.</p>
+                 </div>
+            
+                <div class="col-lg-8 col-lg-offset-2 text-center"> </div>
+            </div>
+        </div>
+    </section>
+
+<!-- About Section -->
+    <section id="resume">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Resume</h2>
+                    <hr class="star-primary3">
+                </div>
+            </div>
+            <div class="row">
+            
+            
+               
+                <div class="col-lg-4">
+                  <div class="restitle">Champlain College</div> <p><u>Burlington, VT</u><br>Division of Communication Creative Media<br>
+                    Graphic Design
+                    Bachelor of Fine Arts<br>
+                    May 2015 </p>
+                  <div class="restitle">Semester abroad</div> <p><u>Dublin, Ireland</u><br>
+                    
+                    Focused on Irish Design and Architecture<br>Four Months in 2012</p>
+                  <div class="restitle"><u>ADOBE Program Experience</u></div>
+                    <ul>• Photoshop</ul>
+                    <ul>• Illustrator</ul>
+                    <ul>• InDesign</ul>
+                    <ul>• Dreamweaver</ul>
+                    <ul>• After Effects</ul>
+                  <div class="restitle"><u>Practical Design Experience</u></div>
+                    <ul>• Illustration</ul>
+                    <ul>• Photography</ul>
+                    <ul>• Typography</ul>
+                    <ul>• Web Design</ul>
+                    
+                     
+                </div>
+                
+                 <div class="col-lg-4">
+                 <div class="restitle">People Making Good PR</div> <p><u>Burlington, VT - 
+                     Graphic Designer</u><br>
+                     Handled the majority of the design work for web and social postings, that clients
+                     would ask PMG to create. Learned how to balance multiple jobs at once. </p>
+                   <div class="restitle">Burlington College</div>  <p><u>Burlington, VT - Graphic Designer</u><br>
+                     Worked directly under the head designer for Burlington College. Learned consistency
+                     and organization skills required to work for an independent in-house designer. </p>
+                  <div class="restitle">Hals Engineering</div> <p><u>Oakland, NJ - 
+                    Field Crew/Assistant to Surveyor</u><br>
+                    Using a laser guided robot and prism for finding and marking points on job sites for future construction.
+                    Dealing with people from job supervisors to homeowners with property issues. </p>
+                    <div class="restitle">Atlantic Stewardship Bank</div> <p><u>Midland Park, NJ - Scanning/Indexing Associate</u><br>
+                    One of two people handling and indexing all of ASB's Commercial Loan Documents.
+                    Responsible for updating Loan Software/ Staying current with FDFC training and security.
+ </p>
+                 </div>
+                <div class="col-lg-4">
+                  
+                  <div class="restitle">Eagle Scout</div>  <p><u>Boy Scouts of America (BSA)</u><br> Held leadership responsibilities such as organizing scouts, materials, and work. Extensive involvement in teamwork and leadership exercises</p>
+                  <div class="restitle">Hurricane Katrina Relief</div> <p><u>Pass Christian, Mississippi</u><br>
+                    Helped in the clearing of debris, construction and rebuilding of Pass Christian
+                    Recruited more participants in following years</p>
+                  <div class="restitle">Flood Relief</div> <p><u>Cedar Rapids, Iowa</u><br>
+                    Reconstruction of homes exterior, and interior
+                    Recruited more participants in following years</p>
+                </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                 
+                    <a href="img/Resume.png" download="Resume.png" class="btn btn-lg btn-outline">
+                    
+                        <i class="glyphicon glyphicon-download-alt"></i> Download Resume
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="success" id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Contact Me</h2>
+                    <hr class="star-light4">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
+                    <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Name</label>
+                                <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Email Address</label>
+                                <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Phone Number</label>
+                                <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Message</label>
+                                <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <br>
+                        <div id="success"></div>
+                        <div class="row">
+                            <div class="form-group col-xs-12">
+                                <button type="submit" class="btn btn-lg btn-outline2">Send</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12"> Copyright &copy; Peter Chadwick 2016</div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-top page-scroll visible-xs visible-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>
+
+    <!-- Portfolio Modals -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-offset-0 col-lg-12">
+                      <h2>MAD RIVER GLEN </h2>
+                      <p>4 Seasons Campaign </p>
+                      <hr class="star-primary5">
+                      
+                            <div class="row">
+                            <img src="img/NewLogo.png" alt="" class="col-md-5 col-sm-12 col-xs-12">
+                           
+                            <p class="col-md-7 col-sm-12 col-xs-12 protitleopen">
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            Mad River Glen's "Four Seasons" is an informative campaign targeted at residents and vacationers. The aim of the campaign will be to increase awareness for seasonal events and activities. Each season will feature a tailored poster and stickers. Both will incorporate items, images, and copy focused on what MRG has to offer during that season.
+                            </p>
+                            </div>
+                        	
+                            <br>
+                            <br>
+                            <br>
+                             <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12">
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <div class="protitle">
+                            Current Stickers
+                            </div>
+                            <br>
+                    
+                            <p class="paragraphspace">
+                            
+                            Mad River Glen gets by on essentially one piece of advertisement, their bumper sticker. People post it on their cars and much more. It has been an effective and lasting marketing strategy. I sought to expand on this idea of minimal marketing through the "Ski It If You Can" Sticker. 
+                            </p>
+                            </div>
+                            <img src="img/WEbSticker.jpg" alt="" class="col-md-6 col-sm-12 col-xs-12">
+                            </div>
+                            
+                                 <br>
+                                 <br>
+                                 <br>
+                                 
+                                 <div class="row">
+                            
+                            <img src="img/block-bumper-stickers.jpg" alt="" class="col-md-6 col-sm-12 col-xs-12">
+                            <div class="col-md-6 col-sm-12 col-xs-12">
+                            <br>
+                            <br>
+                            <br>
+                            <div class="protitle">Local Culture</div>
+                            <br>
+                            <p class="paragraphspace"> These stickers are incredibly well known throughout the area. Even non skiers would likely recognize the classic red and white design. This recognition coupled with skiers, the younger ones at least, usually decorating the back of their cars is the springboard that launches the campaign while still keeping it inexpensive. </p>
+                            </div>
+                            </div>
+                              <br>
+                            <br>
+                            <br>
+                            <br>
+                          <br>
+                          <br>
+                          <br>
+                          
+                               <!-- Start -->
+                        
+                        
+                      
+    <img src="img/WinterFinal_2.png" title="image 1" alt="image 1" id="image1" class="col-md-12 seasons col-sm-12 col-xs-12" />
+    <img src="img/SpringFinal_2.png" title="image 2" alt="image 2" id="image2" class="col-md-12 seasons col-sm-12 col-xs-12" style="display:none;" />
+     <img src="img/SummerFinal_2.png" title="image 3" alt="image 3" id="image3" class="col-md-12 seasons col-sm-12 col-xs-12" style="display:none;" />
+    <img src="img/AutumnFinal_2.png" title="image 4" alt="image 4" id="image4" class="col-md-12 seasons col-sm-12 col-xs-12" style="display:none;" />
+    
+
+<div class="btn-group" data-toggle="buttons">
+  <label class="btn btn-primary image-toggler" data-image-id="#image1">
+    <input type="radio" name="options" id="option1"> WINTER
+  </label>
+  <label class="btn btn-primary image-toggler" data-image-id="#image2">
+    <input type="radio" name="options" id="option2"> SPRING
+  </label>
+    <label class="btn btn-primary image-toggler" data-image-id="#image3">
+    <input type="radio" name="options" id="option3"> SUMMER
+  </label>
+  <label class="btn btn-primary image-toggler" data-image-id="#image4">
+    <input type="radio" name="options" id="option4"> AUTUMN
+  </label>
+  
+</div>
+              <br>
+                            <br>
+                            <br>
+                            <br>            
+                        
+                        <!-- End -->
+                        <br>
+                        <br>
+                        <br>
+                        
+                        
+                    <div class="row">  
+                          
+                          <img src="img/Sticker-GIF-Ring.gif" alt="" class="col-md-5 col-sm-12 col-xs-12">
+                       
+                       		<div class="col-md-6 col-sm-12 col-xs-12">
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <div class="protitle">New "Seasons" Sticker</div>
+                       <br>
+                          <p class="paragraphspace">The final piece to the campaign will be an entirely new sticker designed with the four seasons in mind. Something different yet still promoting the mountain. I decided to go with one red "Ski It If You Can" style redo, and then made four more seasonal only stickers. The idea behind the decorative stickers is to have people marketing for us that would not put the normal bumper sticker. </p>
+                     </div>  
+                     </div>   
+                          
+                       
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                </div>
+       
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-offset-0 col-lg-12">
+                      <h2>MASTERS Suits &amp; Tailors</h2>
+                      <p>Branding &amp; Identity </p>
+                      <hr class="star-primary5">
+                            <div class="row"> 
+                      
+                        <img src="img/Logo.png" alt="" class="col-md-5 col-sm-12 col-xs-12" height="70%" width="70%">
+                          <p class="col-md-7 col-sm-12 col-xs-12 protitleopen">
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                          Masters is a brand identity, created for an imaginary startup company that will be tailoring for young professionals. As a startup, Masters will have a limited budget to work with. The company can only afford a simplistic design to cut costs on printing. To attract a younger customer base, they will need a modern brand identity that is both memorable yet simple. 
+                         </p>
+                          
+                              
+                     </div>        
+                        	<br>
+                              <br>
+                            <br>
+                            <br>
+                            <br>
+                            
+                             <div class="row"> 
+                             
+                              
+                          
+                          
+                        <div class="col-md-6 col-sm-12 col-xs-12">
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                            <div class="protitle">Design Guides</div>
+                            <br>
+                          <p class="paragraphspace">Establishing an identity means it is crucial to have design guides. This allows  multiple people to work on/for the brand without ever meeting each other. Providing a clear layout of how colors, logos, and fonts should be handled makes the design process easier for all of those involved.</p>
+</div>
+      <img src="img/Design-Guide.gif" alt="" class="col-md-5 col-sm-12 col-xs-12" height="70%" width="70%">
+                     </div>
+                            
+                            <br>
+                            <br>
+                            <br>
+                            
+                            
+                                <div class="row"> 
+                      <img src="img/Suit.png" alt="" class="col-md-6 col-sm-12 col-xs-12" height="70%" width="70%">
+                        <div class="col-md-6 col-sm-12 col-xs-12">
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                            <div class="protitle">Brand Identity</div>
+                            <br>
+                          <p class="paragraphspace">The identity of masters is a clean cut one. It carries the class that is inherently
+associated with fine suits and tailoring. The use of few toned back colors allows the brand to be approachable by a younger crowd, while still being a serious enough to be professional.</p></div>
+                          
+                              
+                     </div>        
+                            
+                            <br>
+                            <br>
+                            <br>
+                            
+                            <div class="row">
+                            	<div class="col-md-6 col-sm-12 col-xs-12">
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                                <br>
+                            <div class="protitle">Multi-Use Prints</div>
+                            <br>
+                                        <p class="paragraphspace"> Masters is designed with a budget in mind. Under those circumstances it is important that generated work have multiple uses. In this case a simple design can be used effectively as a postcard or the  front of a business card.</p></div>
+                                   
+                                        
+                                        
+                                        
+                                        <img src="img/NewCard1.png" alt="" class="col-md-6 col-sm-12 col-xs-12">
+                                       
+                                
+                                
+                                
+                                
+                                		
+                                        <img src="img/NewCard3.png" alt="" class="col-md-6 col-sm-12 col-xs-12">
+                                       
+                                        
+                                        
+                                        <img src="img/NewCard2.png" alt="" class="col-md-6 col-sm-12 col-xs-12">
+                                      
+                              
+                          
+                            </div>
+                        
+                        
+                            <br>
+                            <br>
+                            <br>
+                                           <!-- Start -->
+              <div class="row">
+              
+                 <div class="col-md-6 col-sm-12 col-xs-12">       
+                        
+                       
+    <img src="img/RADIOSTICKER1.png" title="image 7" alt="image 7" id="image7" class="image-toggle2" />
+    <img src="img/RADIOSTICKER2.png" title="image 8" alt="image 8" id="image8" class="image-toggle2" style="display:none;" />
+     <img src="img/RADIOSTICKER3.png" title="image 9" alt="image 9" id="image9" class="image-toggle2" style="display:none;" />
+    <img src="img/RADIOSTICKER4.png" title="image 10" alt="image 10" id="image10" class="image-toggle2" style="display:none;" />
+    
+
+
+
+
+<div class="btn-group" data-toggle="buttons">
+
+  <label class="btn btn-primary image-toggler2" data-image-id2="#image7">
+    <input type="radio" name="options" id="option7"> FINAL
+  </label>
+  
+  <label class="btn btn-primary image-toggler2" data-image-id2="#image8">
+    <input type="radio" name="options" id="option8"> DI CUTS
+  </label>
+  
+    <label class="btn btn-primary image-toggler2" data-image-id2="#image9">
+    <input type="radio" name="options" id="option9"> VARNISH
+  </label>
+  
+  <label class="btn btn-primary image-toggler2" data-image-id2="#image10">
+    <input type="radio" name="options" id="option10"> ALT COLOR
+  </label>
+ 
+</div>
+
+                    </div>    
+                     <div class="col-md-6 col-sm-12 col-xs-12">
+                     <br>
+                     <br>
+                     <br>
+                     <br>
+                     <br>
+                            <div class="protitle">Sticker Tags</div>
+                            <br>   
+              <p class="paragraphspace">
+              A sticker tag is a step forward once branding is established. Using the shape of tailors chalk the tag can be used on just about any item in the store. Making it a sticker appeals to a younger crowd whom like to promote brands, while older generations who are not interested will simply treat it as a tag.
+              </p></div>          
+                        </div>
+                        <!-- End -->
+                        
+                        <br>
+                        <br>
+                        <br>
+                        
+                        
+                           
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    <div class="col-lg-12">&nbsp;</div>
+                    <div class="col-lg-12">&nbsp;</div>
+                    <div class="col-lg-12">&nbsp;</div>
+                    <div class="col-lg-12">&nbsp;</div>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-offset-0 col-lg-12">
+                      <h2>BURGER KING</h2>
+                      <p>Rebranding </p>
+                      <hr class="star-primary5">
+                            <div class="row">
+                            <img src="img/BKLOGO.png" alt="" class="col-md-5 col-sm-12 col-xs-12">
+                            <p class="col-md-7 col-sm-12 col-xs-12 protitleopen">
+                              <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            
+                            For a conceptual rebranding of Burger King, each location will be updated to a more spohisticated, sit down restaurant. The updated establishments will feature a lounge layout allowing the patrons to feel more comfortable and make them forget about the fast food eatery it used to be. 
+                            </p>
+                        	</div>
+                            
+                            <br>
+                            <br>
+                             <br>
+                            <br>
+                            <br>
+                            <br>
+                            
+                             <div class="row">
+                             <div class="col-md-7 col-sm-12 col-xs-12">
+                             <br>
+                             <br>
+                            <div class="protitle">Rebranded Marketing</div>
+                            <br>
+                            		<p class="paragraphspace">The most important part of this rebrand is clarifying to people that Burger King is completely different. The posters and billboards are created to show this new feel in easy to understand methods. We are also avoiding a slogan, the goal is to get away from the gimmicks employed <br>by the old brand. Keeping a slogan also made the rebrand seem more like a slight change and not a complete overhaul.</p></div>
+                                      
+                                      
+                                    <img src="img/BKDisplay1.png" class="col-md-5 col-sm-12 col-xs-12" alt="">  
+                                  
+                                  	<img src="img/BKBill_1.png" class="col-md-8 col-sm-12 col-xs-12" alt="">
+                                    
+                                    
+                                    <img src="img/BKDisplay2.png" class="col-md-3 col-sm-12 col-xs-12" alt="">
+                            
+                            
+                            </div>
+                            
+                            <br>
+                            <br>
+                            <br>
+                            
+                             <div class="row">
+                            <img src="img/Sauces.png" alt="" class="col-md-6 col-sm-12 col-xs-12">
+                            <div class="col-md-6 col-sm-12 col-xs-12">
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <div class="protitle">Bottle Labels</div>
+                            <br>
+                            <p class="paragraphspace">Updating the food wont be too hard. You are essentially offering new items in addition to well made versions of the old favorites. As for the sauces that so many people love, they will be made to seem more artisanal. The sauces will also be sold in stores where the labels will be used. The color palette of the labels makes them stand out on shelves. Meanwhile the imagery makes selection quick and easy. </p></div>
+                            </div>
+                            
+                            
+                            <br>
+                            <br>
+                            <br>
+                            
+                            <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12">
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <div class="protitle">Past Acknowledgement</div>
+                            <br>
+                              <p class="paragraphspace">Finally we can completely rebrand BK without acknowledging what it used to be. One idea could be to have the new restaurants send you home with leftovers in a packaging similar to the mockup here. A nod to the old bags but an obviously nicer, more stable container.</p></div>
+                              <img src="img/PAPERBAG.png" alt="" class="col-md-6 col-sm-12 col-xs-12">
+                            </div>
+                            
+                            
+                        
+                      
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-offset-0 col-lg-12">
+                      <h2>COMMAND P</h2>
+                      <p>Phone Application</p>
+                      <hr class="star-primary5">
+                            
+                           <div class="row">
+                           <img src="img/CPLOGO.png" alt="" class="col-md-5 col-sm-12 col-xs-12">
+                           <p class="col-md-7 col-sm-12 col-xs-12 protitleopen">
+                            
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                           Command P is a phone application that simplifies complications commonly associated with office or educational printing. Immediate help is only a moment away to solve any issue that you may run into when printing on systems you don't own or control. From finding the closest working printer to getting professional help at the press of a button Command P will get the job done.</p>
+                           </div>
+                           <br>
+                          
+                            <br>
+                            <br>
+                            <br>
+                          <div class="row">
+                          <div class="col-md-4 col-sm-12 col-xs-12">
+                          <br>
+                          <br>
+                          <br>
+                          <br>
+                          <br>
+                          <br>
+                          <br>
+                            <div class="protitle">Orginal Project</div>
+                            <br>
+                           <p class="paragraphspace">Command P originally started out as a class project in which our only direction was to solve a problem. Here is the original presentation which contains early logos and names for the app that would become the Command P App.</p></div>
+                            <div class="container col-md-8 col-sm-12 col-xs-12">
+
+    <div id="carousel-example-generic0" class="carousel slide" data-ride="carousel" data-interval="false">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic0" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="2"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="3"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="4"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="5"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="6"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="7"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="8"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="9"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="10"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="11"></li>
+        <li data-target="#carousel-example-generic0" data-slide-to="12"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="img/CPPres.001.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.002.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.003.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.004.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.005.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.006.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.007.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.008.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.009.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.010.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.011.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.012.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        <div class="item">
+          <img src="img/CPPres.013.png" alt="..." height="100%" width="100%">
+          
+        </div>
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic0" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic0" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+    </div>
+
+  </div>
+  </div>
+     <br>
+                            <br>
+                            <br>
+                            <br>
+                           
+                            
+                           <div class="row">
+                           <img src="img/NewApp.png" class="col-md-9 col-sm-12 col-xs-12" alt="">
+                           <div class="col-md-3 col-sm-12 col-xs-12">
+                           <br>
+                           <br>
+                            
+                            
+                            
+                            <div class="protitle">Final Application</div>
+                            <br>
+                           <p class="paragraphspace">The final outcome was designed to limit the App's "depth" keeping it simple to use.
+                           <br><br>
+                           <u>Report</u>
+                           <br>By selecting from a list or a QR code on the printer.
+                           <br>
+                           <br>
+                           <u>Status</u>
+                           <br>See what the problem is and who is fixing it. 
+                           <br>
+                           <br>
+                           <u>Locate</u>
+                           <br>Use the map to find the closest working printer.
+                           <br>
+                           <br>
+                           <u>Profile</u>
+                           <br>Users can sign in for 2 way accountability. 
+                           </p></div>
+                           </div>
+                            
+                            
+                            <br>
+                            <br>
+                            <br>
+                            
+                            <img src="img/Mockup.png" class="img-responsive img-centered" alt="">
+                            <br>
+                            <br>
+                       
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-offset-0 col-lg-12">
+                      <h2>BURLINGTON COLLEGE</h2>
+                      <p>Internship </p>
+                      <hr class="star-primary5">
+                            
+                            
+                                	<div class="row"> 
+                      
+                        
+                          
+                          
+                              <img src="img/LogoBRC.png" alt="" class="col-md-5 col-sm-12 col-xs-12" height="70%" width="70%">
+                    <p class="col-md-7 col-sm-12 col-xs-12 protitleopen">
+                      <br>
+                            <br>
+                            <br>
+                            <br>
+                    Burlington College was a private liberal arts college located in Burlington, Vermont that offered associate's, bachelor's, and master's degrees, as well as multiple professional certificate programs. An internship there included working with several professionals on in house items from/for all departments and some advertising work. I was responsible for my assignments from concept through printing. 
+                    </p> 
+                    
+                    </div>   
+                            <br>
+                            <br>
+                              <br>
+                            <br>
+                           
+                            
+                        	<div class="row"> 
+                      
+                        <div class="col-md-6 col-sm-12 col-xs-12">
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                            <div class="protitle">Interning At Burlington College</div>
+                            <br>
+                            <p class="paragraphspace">The design work I did at Burlington College is far outweighed by what I learned there. Working closely with the head of the design department allowed me to see what is required of an in house designer. Deadlines, dealing with print shops, and making quick fixes were challenges I faced daily. These sandwich board posters are just one of a few things I did at Burlington College. Designs utilizing the logo were typical projects at Burlington college.</p>
+                        </div>
+                          
+                              <img src="img/SANDWICHBoards.png" alt="" class="col-md-6 col-sm-12 col-xs-12" height="70%" width="70%">
+                     </div>        
+                        
+                          <br>
+                            <br>
+                            <br>
+                            <br>    
+                        <!-- Start -->
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="protitle">Accecpted Student Forms</div>
+                            <br>
+                  <p class="paragraphspace">
+One of the projects I am most proud of was getting their application forms to have a system. Originally students would receive close to a dozen forms when first applying, and they all looked different. I was tasked with making a layout that worked with all the forms. The consistency of the new forms makes them easier to read and complete, all while being more legitimate looking than the pervious, varied forms.
+</p>   </div>  
+                        
+                     <div class="row"> 
+                      
+                      <div class=" col-md-12 col-sm-12 col-xs-12">
+    <img src="img/OLD PAGE2.png" title="image 5" alt="image 5" id="image5" class="image-toggle3"/>
+    <img src="img/NEW PAGE2.png" title="image 6" alt="image 6" id="image6"  class="image-toggle3" style="display:none;" />
+
+<div class="btn-group" data-toggle="buttons">
+  <label class="btn btn-primary image-toggler3" data-image-id3="#image5">
+    <input type="radio" name="options" id="option5"> ORGINAL
+  </label>
+  <label class="btn btn-primary image-toggler3" data-image-id3="#image6">
+    <input type="radio" name="options" id="option6"> REDONE
+  </label>
+</div>
+
+</div>
+
+</div>
+
+
+   
+                   
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                           <br>
+                        <!-- End -->
+                        
+                        <div class="row">
+ <video controls src="img/MotionGraphic_1.mp4" type="video/mp4" height="500" width="800" class="col-md-8 col-sm-12 col-xs-12">
+
+ 
+
+</video>                     
+  <div class="col-md-4 col-sm-12 col-xs-12">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+                            <div class="protitle">Motion Graphic</div>
+                            <br>
+    <p class="paragraphspace">
+      This motion graphic was one of the last things I did at Burlington College. The idea behind it was to make a short animation that could be played at the end of web adds or used for an opening in videos. The animation largely plays off the "SPARK" Logo (Not my creation) and the motto of "Start a Fire" by mimicking a firework.
+    </p></div>
+                        </div>
+                        
+                        <br>
+                        <br>
+                        <br>
+                    
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-offset-0 col-lg-12">
+                      <h2>PMG PR</h2>
+                      <p>Internship </p>
+                      <hr class="star-primary5">
+                             <div class="row">
+                             <img src="img/PMGLOGO.png" alt="" class="col-md-5 col-sm-12 col-xs-12">
+                             <div class="col-md-7 col-sm-12 col-xs-12">
+                          
+                             <p class="protitleopen">
+                               <br>
+                            <br>
+                            <br>
+                            <br>
+                            People Making Good Public Relations (PMG) is a public relations firm that works with socially conscious clients. They provide a variety of services from social media to media outreach and everything in between. Dealing with a diverse clientele spanning many verticals, PMG's clients range from small startups to large well established brands.</p></div>
+                             </div>
+                             
+                            
+                              <br>
+                            <br>
+                            <br>
+                            <br>
+                            <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12">
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <div class="protitle">Stöger Oil</div>
+                            <br>
+                              <p class="paragraphspace">Stöger Oil has been produced with love and care by the Stöger family for generations in Neuruppersdorf, Austria. Working at PMG I was asked to put together a press kit for Stöger Oils. The original kit was cluttered and solely informative. Stöger’s book was redesigned to use images of the products <br>and be clutter free.</p></div>
+                              <img src="img/BOOKLET.png" class="col-md-6 col-sm-12 col-xs-12 tribuild" alt="">
+                              
+                                    <img src="img/DISPLAY.png" class="col-md-6 col-sm-12 col-xs-12" alt="">
+                                  
+                            
+                            
+                            </div>
+                            
+                              <div class="row">
+                              <div class="col-md-6 col-sm-12 col-xs-12">
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                            <div class="protitle">Imperial Chorizo</div>
+                            <br>
+                           
+                                <p class="paragraphspace">Imperial Chorizo brought from Spain their best cured meats to the US. Working at PMG I was asked to create Facebook banners for the Imperial Chorizo page and a rush job on a sell sheet for their products.</p></div>
+                                <img src="img/SELLSHEET.png" class="col-md-6 col-sm-12 col-xs-12 tribuild" alt="">
+                                
+                                    <img src="img/BANNERS.png" class="col-md-6 col-sm-12 col-xs-12" alt="">
+                                  
+                            
+                            
+                            </div>
+                            
+                            <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12">
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <div class="protitle">Darn Tough</div>
+                            <br>
+                              <p class="paragraphspace">Darn Tough is a Vermont based company that produces high quality socks for every lifestyle. With a strong reputation for quality and durability, Darn Tough products can be found around the country. Working at PMG I was asked to create Facebook ads that could also be printed if the time ever came. They were designed to be square so that they could also be used on Instagram accounts immediately. I was provided a file full of images and had to select, edit and crop before adding text and logos.</p></div>
+                              <img src="img/DTLOGO.png" alt="" class="col-md-6 col-sm-12 col-xs-12">
+                             </div>
+                            
+                           
+                            <img src="img/Footer.png" alt="" class="col-md-12 col-sm-12 col-xs-12"> 
+                            <br>
+                            <br>
+                           <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+<div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-offset-0 col-lg-12">
+                        
+                            <h2>Photography</h2>
+                            <hr class="star-primary5">
+                <div class="row"> 
+                          <div class="col-md-1"></div>
+                            <div class="container col-md-10 col-sm-12 col-xs-12">
+
+    <div id="carousel-example-generic1" class="carousel slide" data-ride="carousel" data-interval="false">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic1" data-slide-to="1.1" class="active"></li>
+        <li data-target="#carousel-example-generic1" data-slide-to="1.2"></li>
+        <li data-target="#carousel-example-generic1" data-slide-to="1.3"></li>
+        <li data-target="#carousel-example-generic1" data-slide-to="1.4"></li>
+        <li data-target="#carousel-example-generic1" data-slide-to="1.5"></li>
+        <li data-target="#carousel-example-generic1" data-slide-to="1.6"></li>
+        <li data-target="#carousel-example-generic1" data-slide-to="1.7"></li>
+        <li data-target="#carousel-example-generic1" data-slide-to="1.8"></li>
+        <li data-target="#carousel-example-generic1" data-slide-to="1.9"></li>
+        <li data-target="#carousel-example-generic1" data-slide-to="1.10"></li>
+      
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="img/Photo1.png" alt="..." height="100%" width="100%">
+          
+        </div>
+       
+        <div class="item">
+          <img src="img/Photo2.png" alt="..." height="100%" width="100%">
+          
+        </div> 
+        
+        
+        
+        <div class="item">
+          <img src="img/Photo7.png" alt="..." height="100%" width="100%">
+          
+        </div> 
+        
+        
+        <div class="item">
+          <img src="img/Photo9.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+        <div class="item">
+          <img src="img/Photo10.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+        <div class="item">
+          <img src="img/Photo11.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+       
+		<div class="item">
+          <img src="img/Photo13.png" alt="..." height="100%" width="100%">
+          
+        </div> 
+        
+        <div class="item">
+          <img src="img/Photo14.png" alt="..." height="100%" width="100%">
+          
+        </div>    
+        
+        <div class="item">
+          <img src="img/Photo16.png" alt="..." height="100%" width="100%">
+          
+        </div>  
+        
+        <div class="item">
+          <img src="img/Photo18.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic1" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic1" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+    </div>
+
+  </div>
+</div>
+ 
+          				
+
+
+
+                        
+                          
+                            <br>
+                            <br>
+                            <br>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+<div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-offset-0 col-lg-12">
+                        
+                            <h2>Artwork</h2>
+                            <hr class="star-primary5">
+                <div class="row"> 
+                <div class="col-md-1"></div>          
+                            <div class="container col-md-10 col-sm-12 col-xs-12">
+
+    <div id="carousel-example-generic2" class="carousel slide" data-ride="carousel" data-interval="false">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic2" data-slide-to="1.1" class="active"></li>
+        <li data-target="#carousel-example-generic2" data-slide-to="1.2"></li>
+        <li data-target="#carousel-example-generic2" data-slide-to="1.3"></li>
+        <li data-target="#carousel-example-generic2" data-slide-to="1.4"></li>
+        <li data-target="#carousel-example-generic2" data-slide-to="1.5"></li>
+        <li data-target="#carousel-example-generic2" data-slide-to="1.6"></li>
+        <li data-target="#carousel-example-generic2" data-slide-to="1.7"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="img/Art1.png" alt="..." height="100%" width="100%">
+          
+        </div>
+       
+        <div class="item">
+          <img src="img/Art2.png" alt="..." height="100%" width="100%">
+          
+        </div>
+      
+      
+        <div class="item">
+          <img src="img/Art3.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+          <div class="item">
+          <img src="img/Art4.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+          <div class="item">
+          <img src="img/Art5.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+          <div class="item">
+          <img src="img/Art6.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+          <div class="item">
+          <img src="img/Art7.png" alt="..." height="100%" width="100%">
+          
+        </div>
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic2" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic2" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+    </div>
+
+  </div>
+</div>
+                            <br>
+                            <br>
+                            <br>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+<div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+       <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-offset-0 col-lg-12">
+                        
+                            <h2>Web Design</h2>
+                            <hr class="star-primary5">
+                <div class="row"> 
+                         <div class="col-md-1"></div>
+                            <div class="container col-sm-12 col-xs-12 col-md-10">
+
+    <div id="carousel-example-generic3" class="carousel slide" data-ride="carousel" data-interval="false">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic3" data-slide-to="1.1" class="active"></li>
+        <li data-target="#carousel-example-generic3" data-slide-to="1.2"></li>
+        <li data-target="#carousel-example-generic3" data-slide-to="1.3"></li>
+        <li data-target="#carousel-example-generic3" data-slide-to="1.4"></li>
+        <li data-target="#carousel-example-generic3" data-slide-to="1.5"></li>
+        <li data-target="#carousel-example-generic3" data-slide-to="1.6"></li>
+        <li data-target="#carousel-example-generic3" data-slide-to="1.7"></li>
+        <li data-target="#carousel-example-generic3" data-slide-to="1.8"></li>
+        <li data-target="#carousel-example-generic3" data-slide-to="1.9"></li>
+        <li data-target="#carousel-example-generic3" data-slide-to="1.10"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="img/Web1.png" alt="..." height="100%" width="100%">
+          
+        </div>
+       
+        <div class="item">
+          <img src="img/Web2.png" alt="..." height="100%" width="100%">
+          
+        </div>
+      
+        <div class="item">
+          <img src="img/Web3.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+         <div class="item">
+          <img src="img/Web4.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+         <div class="item">
+          <img src="img/Web5.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+         <div class="item">
+          <img src="img/Web6.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+         <div class="item">
+          <img src="img/Web7.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+         <div class="item">
+          <img src="img/Web8.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+         <div class="item">
+          <img src="img/Web9.png" alt="..." height="100%" width="100%">
+          
+        </div>
+        
+         <div class="item">
+          <img src="img/Web10.png" alt="..." height="100%" width="100%">
+          
+        </div> 
+      
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic3" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic3" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+    </div>
+
+  </div>
+</div>
+                           
+                        
+                            <br>
+                            <br>
+                            <br>
+                            
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+	<!-- Lightbox -->
+
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/freelancer.js"></script>
+    
+
+
+</body>
+
+</html>
